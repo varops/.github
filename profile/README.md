@@ -1,4 +1,6 @@
-# Own the knowledge. Rent the thinking.
+# VarOps
+
+### Own the knowledge. Rent the thinking.
 
 Every company has two operating models: the documented one and the real one. We build a living model of the real one – and then help the company act on it.
 
