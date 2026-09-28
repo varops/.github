@@ -11,15 +11,11 @@ The company owns the knowledge. The model doing the thinking can be swapped out.
 
 ### Find us
 
-- 📰 [Magazine](https://varops.com) * 
+- 📰 [Magazine](https://varops.com) 
 - 🎙️ [Podcast](https://varops.com/podcasts/old-school-new-tech/)
 - 📚 [Books](https://varops.com/books/)
 - 🔬 [Research](https://varops.com/acropolis/)
 - 🤖 [Services](https://varops.com/transform/)
 
-
-\* Our magazine pipeline runs on [MUXI](https://github.com/muxi-ai)
-
----
 
 **AI. For the people who can't afford to guess.**
